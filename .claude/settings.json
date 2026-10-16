@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash('C:\\\\wamp64\\(1\\)\\\\bin\\\\php\\\\php8.1.31\\\\php.exe' -r ' *)",
+      "Bash(\"C:\\\\wamp64\\(1\\)\\\\bin\\\\php\\\\php8.1.31\\\\php.exe\" \"C:\\\\Users\\\\LENOVO~1\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--wamp64-1--www-1-aka-gemi\\\\f354b4a6-c4c6-4b5b-9a03-00d2e6abda29\\\\scratchpad\\\\test_chantier_j.php\")"
+    ]
+  }
+}
